@@ -1,0 +1,1 @@
+Those tasks implements multiple versions of a Hidden Markov Model (HMM) Part-of-Speech (POS) tagger using the Brown corpus. The tasks include data preparation, a baseline tagger based on maximum likelihood estimation, an HMM without smoothing, an HMM with Laplace smoothing, and an HMM utilizing pseudo-words for handling unknown words.

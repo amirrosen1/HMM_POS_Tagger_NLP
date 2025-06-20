@@ -1,0 +1,5 @@
+*.zip
+*.parquet
+*.pdf
+*.docx
+__pycache__/
